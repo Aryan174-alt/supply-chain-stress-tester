@@ -1,0 +1,14 @@
+txtstreamlit
+xgboost
+scikit-learn
+pandas
+numpy
+joblib
+shap
+lifelines
+plotly
+matplotlib
+seaborn
+google-generativeai
+python-dotenv
+scipy
