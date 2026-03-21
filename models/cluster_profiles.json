@@ -1,0 +1,34 @@
+{
+  "2": {
+    "risk_tier": "LOW RISK",
+    "mean_late_delivery_risk": 0.37422983844594154,
+    "mean_order_item_total": 135.60848165254455,
+    "mean_scheduled_days": 4.0,
+    "mean_composite_risk_score": 0.4980174258029316,
+    "order_count": 76445
+  },
+  "1": {
+    "risk_tier": "MEDIUM RISK",
+    "mean_late_delivery_risk": 0.4695025728987993,
+    "mean_order_item_total": 362.26024459650085,
+    "mean_scheduled_days": 3.3324871355060033,
+    "mean_composite_risk_score": 0.5271924195153983,
+    "order_count": 29150
+  },
+  "3": {
+    "risk_tier": "HIGH RISK",
+    "mean_late_delivery_risk": 0.5498798447224105,
+    "mean_order_item_total": 187.02224915501532,
+    "mean_scheduled_days": 2.9530470146034875,
+    "mean_composite_risk_score": 0.5468873336549035,
+    "order_count": 16229
+  },
+  "0": {
+    "risk_tier": "CRITICAL RISK",
+    "mean_late_delivery_risk": 0.8136808927506602,
+    "mean_order_item_total": 154.9150999022592,
+    "mean_scheduled_days": 1.3358378056052476,
+    "mean_composite_risk_score": 0.6247865911873968,
+    "order_count": 58695
+  }
+}

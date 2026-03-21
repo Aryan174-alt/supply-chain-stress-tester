@@ -1,5 +1,9 @@
-data/
-models/
+data/DataCoSupplyChainDataset.csv
+models/X_test.pkl
+models/X_train.pkl
+models/cox_model.pkl
+models/processed_df.pkl
+models/xgboost_model.pkl
 .env
 __pycache__/
 *.pyc
